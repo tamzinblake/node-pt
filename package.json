@@ -1,0 +1,22 @@
+{
+  "name": "node-pt",
+  "version": "0.0.0",
+  "description": "Pivotal client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomblake/node-pt.git"
+  },
+  "keywords": [
+    "pivotal"
+  ],
+  "author": "Thom Blake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomblake/node-pt/issues"
+  },
+  "homepage": "https://github.com/thomblake/node-pt"
+}
